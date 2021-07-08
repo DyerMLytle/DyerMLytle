@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DyerMLytle
 - 👀 I’m interested in 3D
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently learning three.js and React and about User Experience Design
 
 <!---
 DyerMLytle/DyerMLytle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
